@@ -6,7 +6,7 @@
 ## Installation:
 
   Pour une utilisation de mon apllication vous aurez besoin de:
-    + Clonez le dépôt en exécutant la commande
+  + Clonez le dépôt en exécutant la commande
      ``git clone https://github.com/votre_nom/nom_de_votre_projet.git``
     +Installez les dépendances nécessaires avec Pipenv en exécutant la commande suivante :
       ``pipenv install``
