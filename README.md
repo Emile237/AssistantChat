@@ -6,6 +6,6 @@
 ## Installation:
 
   Pour une utilisation de mon apllication vous aurez besoin de:
-  
     - Clonez le dépôt en exécutant la commande
+    
       `git clone https://github.com/votre_nom/nom_de_votre_projet.git`
