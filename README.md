@@ -23,7 +23,7 @@
 ```
 pipenv shell
 ```
-+nous pouvons à présent éxécuté notre projet par la commande 
++ nous pouvons à présent éxécuté notre projet par la commande 
 ```
 python ./main.py
 ```
