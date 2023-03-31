@@ -18,6 +18,7 @@
  ```
  CHATGPKKEY=<votre_clé_api_openai>
 ```
+
 + Une fois effectuer vous pourrez exécuté le subshell:
 ```
 pipenv shell
