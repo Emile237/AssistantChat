@@ -7,9 +7,14 @@
 
   Pour une utilisation de mon apllication vous aurez besoin de:
   + Clonez le dépôt en exécutant la commandeg
-  
-  `git clone https://github.com/AssistantChat/chat.git`
+  ```
+  git clone https://github.com/AssistantChat/chat.git
+  ```
   + Installez les dépendances nécessaires avec Pipenv en exécutant la commande suivante :
- ``pipenv install``
+ ```
+ pipenv install
+ ```
  + Configurez le fichier .env en ajoutant votre clé API OpenAI 
+ ```
  CHATGPKKEY=<votre_clé_api_openai>
+```
