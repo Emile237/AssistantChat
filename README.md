@@ -14,7 +14,8 @@
  ```
  pipenv install
  ```
- + Configurez le fichier .env en ajoutant votre clé API OpenAI 
+ + Configurez le fichier .env en ajoutant votre clé API OpenAI que vous pouvez avoir en vous rendant https://platform.openai.com/account/api-keys
  ```
  CHATGPKKEY=<votre_clé_api_openai>
 ```
++ Une fois effectuer vous pourrez exécuté 
