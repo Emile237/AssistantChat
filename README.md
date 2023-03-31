@@ -27,3 +27,7 @@ pipenv shell
 ```
 python ./main.py
 ```
+## Utilisation
+## Configuration
+## Contribution 
+## Licence 
