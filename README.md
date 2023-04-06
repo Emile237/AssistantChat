@@ -40,4 +40,21 @@ python ./main.py
 Si vous avez besoin de configurer l'application, vous pouvez le faire en modifiant le fichier .env. Assurez-vous de configurer votre clé API OpenAI avant de lancer l'application.
 
 ## Contribution 
+Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, vous pouvez le faire en suivant les étapes suivantes :
+
++ Forkez le dépôt sur votre compte GitHub.
+
++ Créez une branche pour votre contribution :
+```
++ git checkout -b nom-de-votre-branche
+```
++ Faites vos modifications et committez-les :
+```
+git commit -m "votre message de commit"
+```
++ Poussez vos modifications sur votre fork :
+```
+git push origin nom-de-votre-branche
+```
+Créez une demande de fusion sur le dépôt original.
 ## Licence 
