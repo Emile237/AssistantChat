@@ -33,6 +33,11 @@
 ```
 python ./main.py
 ```
++ Dites quelque chose après avoir vu le message Dites quelque chose! s'afficher.
+
++ L'assistant vocal traitera votre requête et vous répondra avec une réponse sous forme de texte et de voix.
 ## Configuration
+Si vous avez besoin de configurer l'application, vous pouvez le faire en modifiant le fichier .env. Assurez-vous de configurer votre clé API OpenAI avant de lancer l'application.
+
 ## Contribution 
 ## Licence 
