@@ -18,20 +18,21 @@
  ```
  pipenv install
  ```
+ + Activez l'environnement virtuel
+ ```
+ pipenv shell
+ 
+ ```
  + Configurez le fichier .env en ajoutant votre clé API OpenAI que vous pouvez avoir en vous rendant sur: https://platform.openai.com/account/api-keys et noter votre clé dans la variable CHATGPKKEY.
  ```
  CHATGPKKEY=<votre_clé_api_openai>
 ```
 
-+ Une fois effectuer vous pourrez exécuté le subshell:
-```
-pipenv shell
-```
+## Utilisation
 + nous pouvons à présent éxécuté notre projet par la commande 
 ```
 python ./main.py
 ```
-## Utilisation
 ## Configuration
 ## Contribution 
 ## Licence 
