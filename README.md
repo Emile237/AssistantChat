@@ -10,7 +10,7 @@
   ```
   git clone https://github.com/AssistantChat/chat.git
   ```
-  +Accédez au dossier du projet :
+  + Accédez au dossier du projet :
   ```
   cd ChatGPT-Voice-Assistant
   ```
