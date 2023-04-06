@@ -10,6 +10,10 @@
   ```
   git clone https://github.com/AssistantChat/chat.git
   ```
+  +Accédez au dossier du projet :
+  ```
+  cd ChatGPT-Voice-Assistant
+  ```
   + Installez les dépendances nécessaires avec Pipenv en exécutant la commande suivante :
  ```
  pipenv install
